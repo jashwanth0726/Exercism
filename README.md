@@ -1,5 +1,2 @@
-# demo
-hello im jashwanth
-<br>
-how are you
-gg
+# EXERCISM 
+python solutions
