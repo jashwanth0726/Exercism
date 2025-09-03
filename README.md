@@ -1,2 +1,2 @@
 # EXERCISM 
-python solutions
+python
