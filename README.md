@@ -1,2 +1,2 @@
 # EXERCISM 
-## The solutions for the problems i practice will be uploaded here
+## The solutions for the problems from Exercism platform  will be uploaded here
